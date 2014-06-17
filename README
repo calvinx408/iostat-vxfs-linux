@@ -1,0 +1,1 @@
+iostat shows entries for VxVM devices, but which volume are they? If you have a bunch of dg then a for loop would be a pain.
